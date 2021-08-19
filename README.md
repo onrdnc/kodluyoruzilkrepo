@@ -20,3 +20,5 @@ Pull requestler kabul edilir Büyük değişiklikler için, lütfen önce neyi d
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Resim](https://picsum.photos/200/300)
